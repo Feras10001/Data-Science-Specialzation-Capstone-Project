@@ -14,5 +14,5 @@ However, the ranking of those venues in each city are mostly different. Finally,
 ----------------------------------------------------------
 I used the follwong libraries: Pandas, numpy, json, geopy.geocoders, requests, pandas.io.json, and folium
 Finding the data would be through utilization of Four Squere API and exploring each city and finding its populer venues and trends.
-There are three files in the repo: the jupyter note book, PDF report, and presentation
+There are three files in the repo: the jupyter note book, PDF report, and presentation. In addition, a link to my Meduim blog post can be found under Blog Post file
 -------------------------
